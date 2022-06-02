@@ -1,1 +1,8 @@
-{}
+{
+  "name": "In Review",
+  "sidebar": [
+    ["Hello", "/"],
+    ["Code Hike Demo", "/code_hike_demo"]
+  ],
+  "experimentalCodehike": true
+}
